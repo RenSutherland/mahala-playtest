@@ -1,0 +1,11 @@
+MAHALA — playtest permission
+
+Copyright 2026 Ren Sutherland in original material protected by copyright. All rights reserved.
+
+You may download and play this build for personal, non-commercial testing and provide feedback.
+
+This is not an open-source release. No permission is granted to reupload, sell, distribute, adapt or reuse MAHALA's original writing, artwork, characters, code or other project material without Ren Sutherland's written permission, except where applicable law permits it.
+
+Third-party software, fonts, audio and other credited components remain subject to their own licenses. This notice does not restrict rights those licenses grant or claim ownership of third-party material.
+
+This unfinished build is provided as is, without warranty.
